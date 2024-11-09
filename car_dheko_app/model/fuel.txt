@@ -1,0 +1,4 @@
+Petrol
+Diesel
+LPG
+CNG

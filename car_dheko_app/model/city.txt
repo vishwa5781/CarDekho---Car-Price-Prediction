@@ -1,0 +1,6 @@
+bangalore_cars
+chennai_cars
+delhi_cars
+hyderabad_cars
+jaipur_cars
+kolkata_cars

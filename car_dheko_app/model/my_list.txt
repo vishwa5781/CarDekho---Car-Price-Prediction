@@ -1,0 +1,10 @@
+Transmission
+Model_Year
+Gear_Box
+city
+Insurance_Validity
+No_Of_Owners
+km_driven
+Body_Type
+Mileage
+Fuel_Type

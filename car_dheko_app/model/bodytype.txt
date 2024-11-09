@@ -1,0 +1,11 @@
+Hatchback
+SUV
+Sedan
+MUV
+Coupe
+Minivans
+Convertibles
+Hybrids
+Wagon
+Pickup Trucks
+nan
